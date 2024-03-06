@@ -26,7 +26,7 @@ npm start
 ```
 
 
-# .env configuration
+# login configuration
 ```
 email : user@gmail.com
 password : 123456
